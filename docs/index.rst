@@ -23,6 +23,10 @@ Session 1
 #########
 :download:`Hofmann 2021 <../_literature/session1/hofmann2021.pdf>`
 
+Session 3
+#########
+:download:`Fiksen 2013 <../_literature/session3/fiksen2013.pdf>`
+
 
 Indices and tables
 ==================
