@@ -14,8 +14,12 @@ Welcome to 2021 Phytoplankton Physiology Seminar's documentation!
    week-one.md
    week-two.md
    week-three.md
-   week-four.md
+   week-foure.md
 
+PDFs across the course pages
+----------------------------
+
+:download:`Hofmann 2021 <../_literature/session1/hofmann2021.pdf>`
 
 
 Indices and tables
