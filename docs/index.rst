@@ -9,6 +9,12 @@ Welcome to 2021 Phytoplankton Physiology Seminar's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   course-logistics.md
+   week-one.md
+   week-two.md
+   week-three.md
+   week-four.md
 
 
 
