@@ -26,6 +26,7 @@ Session 1
 Session 3
 #########
 :download:`Fiksen 2013 <../_literature/session3/fiksen2013.pdf>`
+:download:`Sommer 1990 <../_literature/session3/sommer1990.pdf>`
 
 
 Indices and tables

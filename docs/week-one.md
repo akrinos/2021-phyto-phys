@@ -10,7 +10,6 @@ Because much of this class will be focused on quantitative approaches to assessi
 #### Lotka-Volterra
 
 Classically known as the predator-prey model, Lotka-Volterra is applicable even to phytoplankton. Papers have been published just this year that leverage classical Lotka-Volterra dynamics to explain phytoplankton ecology. 
-{{ site.url }}{{ site.baseurl }}
 <object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/hofmann2021.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_static/hofmann2021.pdf">
         <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/hofmann2021.pdf">Download PDF</a>.</p>
