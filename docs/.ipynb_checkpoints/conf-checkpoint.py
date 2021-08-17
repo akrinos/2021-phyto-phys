@@ -15,6 +15,9 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 
+import os
+import sphinx_bootstrap_theme
+
 # -- Project information -----------------------------------------------------
 
 project = '2021 Phytoplankton Physiology Seminar'
