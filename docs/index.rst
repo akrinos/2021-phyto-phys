@@ -14,7 +14,15 @@ Welcome to the Fall 2021 Phytoplankton Physiology Seminar!
    week-one.md
    week-two.md
    week-three.md
-   week-foure.md
+   week-four.md
+   week-five.md
+   week-six.md
+   week-seven.md
+   week-eight.md
+   week-nine.md
+   week-ten.md
+   week-eleven.md
+   week-twelve.md
 
 PDFs across the course pages
 ----------------------------
