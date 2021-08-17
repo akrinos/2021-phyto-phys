@@ -19,6 +19,8 @@ Welcome to 2021 Phytoplankton Physiology Seminar's documentation!
 PDFs across the course pages
 ----------------------------
 
+Session 1
+#########
 :download:`Hofmann 2021 <../_literature/session1/hofmann2021.pdf>`
 
 
