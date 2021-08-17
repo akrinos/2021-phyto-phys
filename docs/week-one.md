@@ -14,7 +14,3 @@ Classically known as the predator-prey model, Lotka-Volterra is applicable even 
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/akrinos/2021-phyto-phys/literature/session1/hofmann2021.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-```python
-
-```
