@@ -47,13 +47,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 html_theme = 'bootstrap'
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
-html_logo = "alexander_lab.jpeg"
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
     'navbar_title': "Physiology Seminar",
 
     # Tab name for entire site. (Default: "Site")
-    'navbar_site_name': "Full Site",
+    'navbar_site_name': "Explore Content",
 
     # A list of tuples containing pages or urls to link to.
     # Valid tuples should be in the following forms:
