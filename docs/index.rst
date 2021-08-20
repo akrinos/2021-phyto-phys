@@ -27,9 +27,18 @@ Welcome to the Fall 2021 Phytoplankton Physiology Seminar!
 PDFs across the course pages
 ----------------------------
 
+Session 0
+#########
+
 Session 1
 #########
+:download:`Geider 1987 <../_literature/session1/geider1987.pdf>`
+:download:`Cullen 1990 <../_literature/session1/cullen1990.pdf>`
 :download:`Hofmann 2021 <../_literature/session1/hofmann2021.pdf>`
+:download:`Kiefer 1991 <../_literature/session1/kiefer1991.pdf>`
+
+Session 2
+#########
 
 Session 3
 #########

@@ -7,6 +7,8 @@
   </div>
   <div class="panel-body">
       Each week, we'll place the content you should have come to seminar having read in this box.
+      - Geider 1987
+      - Cullen 1990
   </div>
 </div>
 
