@@ -30,9 +30,9 @@ Welcome to the Fall 2021 Phytoplankton Physiology Seminar!
 Required readings
 -----------------
 
-Session 0
-#########
-
+Session 0: An Introduction to Phytoplankton Ecology
+###################################################
+| :download:`Falkowski 1992 <../_literature/session0/falkowski1992.pdf>`
 
 Session 1: Light Harvesting
 ###########################
@@ -58,8 +58,23 @@ Session 5: Mixotrophy
 | :download:`Ward 2015 <../_literature/session5/ward2015.pdf>`
 | :download:`Caron 2016 <../_literature/session5/caron2016.pdf>`
 
-Session 11
-##########
+Session 6: More Phytoplankton Lifestyles
+########################################
+
+Session 7: Mortality
+####################
+
+Session 8: Viral Lysis and the Spring Bloom
+###########################################
+
+Session 9: Individual-Based Modeling
+####################################
+
+Session 10: Phytoplankton Evolution
+###################################
+
+Session 11: Global Phytoplankton Biogeography & Future Perspectives
+###################################################################
 
 
 
