@@ -34,21 +34,29 @@ Session 0
 #########
 
 
-Session 1
-#########
-
-Session 2
-#########
+Session 1: Light Harvesting
+###########################
 | :download:`Geider 1987 <../_literature/session1/geider1987.pdf>`
 | :download:`Cullen 1990 <../_literature/session1/cullen1990.pdf>`
 
-Session 3
-#########
+Session 2: Nutrient Acquisition
+###############################
+| :download:`Geider 2002 <../_literature/session2/geider2002.pdf>`
+| :download:`Morel 2008 <../_literature/session2/morel2008.pdf>`
 
-Session 4
-#########
+Session 3: Modeling Primer
+##########################
+| :download:`Flynn 2016 <../_literature/session3/flynn2016.pdf>`
+
+Session 4: Introducing the Large-Scale
+######################################
 | :download:`Finkel 2009 <../_literature/session4/litchman2015.pdf>`
 | :download:`Finkel 2006 <../_literature/session4/finkel2006.pdf>`
+
+Session 5: Mixotrophy
+#####################
+| :download:`Ward 2015 <../_literature/session5/ward2015.pdf>`
+| :download:`Caron 2016 <../_literature/session5/caron2016.pdf>`
 
 Session 11
 ##########
