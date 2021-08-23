@@ -58,8 +58,10 @@ Session 5: Mixotrophy
 | :download:`Ward 2015 <../_literature/session5/ward2015.pdf>`
 | :download:`Caron 2016 <../_literature/session5/caron2016.pdf>`
 
-Session 6: More Phytoplankton Lifestyles
-########################################
+Session 6: Cooperation & Competition
+####################################
+| :download:`Burson 2018 <../_literature/session6/burson2018.pdf>`
+| :download:`Seymour 2017 <../_literature/session6/seymour2017.pdf>`
 
 Session 7: Mortality
 ####################
@@ -74,6 +76,7 @@ Session 9: Individual-Based Modeling
 
 Session 10: Phytoplankton Evolution
 ###################################
+| :download:`Martiny 2020 <../_literature/session10/martiny2020.pdf>`
 
 Session 11: Global Phytoplankton Biogeography & Future Perspectives
 ###################################################################

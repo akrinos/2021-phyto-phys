@@ -33,3 +33,9 @@ In this segment, we'll go beyond the nutrient-and-surrounding-strategy level to 
 </object>
 
 ### Cooperation
+
+<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/foster2019.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/foster2019.pdf">
+        <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/foster2019.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
