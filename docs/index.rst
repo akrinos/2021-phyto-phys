@@ -68,6 +68,8 @@ Session 7: Mortality
 
 Session 8: Viral Lysis and the Spring Bloom
 ###########################################
+| :download:`Doney 2002 <../_literature/session8/doney2002.pdf>`
+| :download:`Suttle 1990 <../_literature/session8/suttle1990.pdf>`
 
 Session 9: Individual-Based Modeling
 ####################################
