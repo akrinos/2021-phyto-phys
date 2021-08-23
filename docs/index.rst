@@ -69,13 +69,16 @@ Session 8: Viral Lysis and the Spring Bloom
 
 Session 9: Individual-Based Modeling
 ####################################
+| :download:`Inomura 2016 <../_literature/session9/inomura2016.pdf>`
+| :download:`Klausmeier 2008 <../_literature/session9/klausmeier2008.pdf>`
 
 Session 10: Phytoplankton Evolution
 ###################################
 
 Session 11: Global Phytoplankton Biogeography & Future Perspectives
 ###################################################################
-
+| :download:`Cermeno 2008 <../_literature/session11/cermeno2008.pdf>`
+| :download:`Litchman 2008 <../_literature/session11/litchman2008.pdf>`
 
 
 PDFs and resources across the course pages
