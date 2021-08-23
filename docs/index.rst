@@ -6,6 +6,9 @@
 Welcome to the Fall 2021 Phytoplankton Physiology Seminar!
 ==========================================================
 
+.. image:: ../_images/phytos_concept.png
+   :align: center
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -46,6 +49,10 @@ Session 4
 #########
 | :download:`Finkel 2009 <../_literature/session4/litchman2015.pdf>`
 | :download:`Finkel 2006 <../_literature/session4/finkel2006.pdf>`
+
+Session 11
+##########
+
 
 
 PDFs and resources across the course pages
