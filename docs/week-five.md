@@ -7,7 +7,7 @@
   </div>
   <div class="panel-body">
       Each week, we'll place the content you should have come to seminar having read in this box.<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session4/finkel2006.pdf">Finkel2006</a><br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session4/litchman2015.pdf">Litchman 2015</a>: A trait-based perspective on global phytoplankton ecology<br>
       <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session4/finkel2009.pdf">Finkel 2009</a>: Review of elemental stoichiometry & global implications
   </div>
 </div>

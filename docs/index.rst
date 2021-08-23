@@ -24,8 +24,32 @@ Welcome to the Fall 2021 Phytoplankton Physiology Seminar!
    week-eleven.md
    week-twelve.md
 
-PDFs across the course pages
-----------------------------
+Required readings
+-----------------
+
+Session 0
+#########
+
+
+Session 1
+#########
+
+Session 2
+#########
+| :download:`Geider 1987 <../_literature/session1/geider1987.pdf>`
+| :download:`Cullen 1990 <../_literature/session1/cullen1990.pdf>`
+
+Session 3
+#########
+
+Session 4
+#########
+| :download:`Finkel 2009 <../_literature/session4/litchman2015.pdf>`
+| :download:`Finkel 2006 <../_literature/session4/finkel2006.pdf>`
+
+
+PDFs and resources across the course pages
+------------------------------------------
 
 Session 0
 #########
@@ -47,7 +71,7 @@ Session 3
 
 Session 4
 #########
-:download:`Finkel 2009 <../_literature/session4/finkel2009.pdf>`
+:download:`Finkel 2009 <../_literature/session4/litchman2015.pdf>`
 :download:`Finkel 2006 <../_literature/session4/finkel2006.pdf>`
 
 
