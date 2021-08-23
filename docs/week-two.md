@@ -12,3 +12,4 @@
   </div>
 </div>
 
+It seemed appropriate to begin a class on marine phytoplankton with what makes phytoplankton distinct from other planktonic organisms: the ability to use light to make new biomass.

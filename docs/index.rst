@@ -45,6 +45,11 @@ Session 3
 :download:`Fiksen 2013 <../_literature/session3/fiksen2013.pdf>`
 :download:`Sommer 1990 <../_literature/session3/sommer1990.pdf>`
 
+Session 4
+#########
+:download:`Finkel 2009 <../_literature/session4/finkel2009.pdf>`
+:download:`Finkel 2006 <../_literature/session4/finkel2006.pdf>`
+
 
 Indices and tables
 ==================
