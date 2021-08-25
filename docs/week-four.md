@@ -15,7 +15,7 @@
 
 Our main required reading of this session is a seminal work of distinguished biological oceanographer Dr. Gordon A. Riley. In order to connect to how important and lasting this work was to be for marine ecosystem modeling, you can check out this perspective from Thomas Anderson (2012):
 
-<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/hofmann2021.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/anderson2012.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_static/anderson2012.pdf">
         <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/anderson2012.pdf">Download PDF</a>.</p>
     </embed>

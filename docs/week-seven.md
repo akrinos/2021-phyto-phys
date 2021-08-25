@@ -16,9 +16,9 @@
 
 A recent paper by John Casey in the Follows group illuminates how "simple" modeling approaches can shed light on within-cell competition for transporters in the face of nutrient limitation.
 
-<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/casey2020.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/casey2020.pdf">
-        <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/casey2020.pdf">Download PDF</a>.</p>
+<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/casey2020.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_static/casey2020.pdf">
+        <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/casey2020.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -26,16 +26,16 @@ In this segment, we'll go beyond the nutrient-and-surrounding-strategy level to 
 
 ### Competition
 
-<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/hofmann2021.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/hofmann2021.pdf">
-        <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/hofmann2021.pdf">Download PDF</a>.</p>
+<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/hofmann2021.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_static/hofmann2021.pdf">
+        <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/hofmann2021.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ### Cooperation
 
-<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/foster2019.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/foster2019.pdf">
-        <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/foster2019.pdf">Download PDF</a>.</p>
+<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/foster2019.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_static/foster2019.pdf">
+        <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/foster2019.pdf">Download PDF</a>.</p>
     </embed>
 </object>
