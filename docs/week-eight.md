@@ -1,4 +1,4 @@
-# Session 6
+# Session 7
 ## More on Mortality
 
 ### Revisiting the Holling Curves
