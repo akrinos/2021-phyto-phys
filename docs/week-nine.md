@@ -1,5 +1,5 @@
 # Session 8
-## Viral Lysis & The Spring Bloom
+## Viruses
 
 <div class="panel panel-primary">
   <div class="panel-heading">

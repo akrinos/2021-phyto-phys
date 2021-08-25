@@ -8,14 +8,22 @@
   </div>
   <div class="panel-body">
       A primer on phytoplankton modeling!<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session3/flynn2016.pdf">Flynn 2016</a>: plankton modelers and traditional frameworks<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session4/finkel2009.pdf">Finkel 2009</a>: Review of elemental stoichiometry & global implications
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session3/riley1946.pdf">Riley 1946</a>: a classic model for phytoplankton ecology<br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session3/seigel2002.pdf">Doney 2002</a>: evaluating Sverdrup's critical depth hypothesis & the North Atlantic spring bloom<br>
   </div>
 </div>
 
+Our main required reading of this session is a seminal work of distinguished biological oceanographer Dr. Gordon A. Riley. In order to connect to how important and lasting this work was to be for marine ecosystem modeling, you can check out this perspective from Thomas Anderson (2012):
+
+<object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/hofmann2021.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_static/anderson2012.pdf">
+        <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/anderson2012.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### Classical Models
 
-Because much of this class will be focused on quantitative approaches to assessing phytoplankton physiology and community ecology, we'll need a discussion of a couple of classical models that have applications far beyond the phytoplankton world. 
+Because much of this class will be focused on quantitative approaches to assessing phytoplankton physiology and community ecology, we'll need a discussion of a cousple of classical models that have applications far beyond the phytoplankton world. 
 
 #### Lotka-Volterra
 
