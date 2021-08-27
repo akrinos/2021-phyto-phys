@@ -7,8 +7,8 @@
   </div>
   <div class="panel-body">
       An introduction to nutrient acquisition in the phytoplankton and the Redfield ratio.<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session2/geider2002.pdf">Geider 2002</a>: Redfield revisited and the C:N:P ratio<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session2/morel2008.pdf">Morel 2008</a>: the relationship between ocean trace metals and the phytoplankton
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/geider2002.pdf">Geider 2002</a>: Redfield revisited and the C:N:P ratio<br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/morel2008.pdf">Morel 2008</a>: the relationship between ocean trace metals and the phytoplankton
   </div>
 </div>
 

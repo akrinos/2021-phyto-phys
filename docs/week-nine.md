@@ -6,9 +6,9 @@
     <h3 class="panel-title">Papers to Read Before!</h3>
   </div>
   <div class="panel-body">
-      We'll just take a shallow dive today into the literature on the spring bloom & viral considerations in phytoplankton communities.<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/doney2002.pdf">Doney 2002</a>: evaluating Sverdrup's critical depth hypothesis & the North Atlantic spring bloom<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/suttle1990.pdf">Suttle 1990</a>: viruses in the phytoplankton
+      Birth and death processes are complicated by the presence of viruses in ocean ecosystems.<br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/suttle1990.pdf">Suttle 1990</a>: viruses in the phytoplankton<br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/menge2009.pdf">Menge</a>: coping with whether to prioritize evolutionary success against viruses
   </div>
 </div>
 

@@ -8,8 +8,8 @@
   </div>
   <div class="panel-body">
       A primer on phytoplankton modeling!<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session3/riley1946.pdf">Riley 1946</a>: a classic model for phytoplankton ecology<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session3/seigel2002.pdf">Doney 2002</a>: evaluating Sverdrup's critical depth hypothesis & the North Atlantic spring bloom<br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/riley1946.pdf">Riley 1946</a>: a classic model for phytoplankton ecology<br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/seigel2002.pdf">Doney 2002</a>: evaluating Sverdrup's critical depth hypothesis & the North Atlantic spring bloom<br>
   </div>
 </div>
 
