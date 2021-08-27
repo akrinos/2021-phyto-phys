@@ -70,7 +70,8 @@ Session 7: Mortality
 
 Session 8: Viruses
 ###########################################
-| :download:`Siegel 2002 <../_literature/session8/doney2002.pdf>`
+| :download:`Menge 2009 <../_literature/session8/siegel2002.pdf>`
+| :download:`Suttle 1990 <../_literature/session8/suttle1990.pdf>`
 
 Session 9: Individual-Based Modeling
 ####################################
