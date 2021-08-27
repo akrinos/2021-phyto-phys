@@ -46,7 +46,8 @@ Session 2: Nutrient Acquisition
 
 Session 3: Modeling Primer
 ##########################
-| :download:`Flynn 2016 <../_literature/session3/flynn2016.pdf>`
+| :download:`Riley 1946 <../_literature/session3/riley1946.pdf>`
+| :download:`Suttle 1990 <../_literature/session3/suttle1990.pdf>`
 
 Session 4: Introducing the Large-Scale
 ######################################
@@ -55,7 +56,7 @@ Session 4: Introducing the Large-Scale
 
 Session 5: Mixotrophy
 #####################
-| :download:`Ward 2015 <../_literature/session5/ward2015.pdf>`
+| :download:`Stoecker 2017 <../_literature/session5/stoecker2017.pdf>`
 | :download:`Caron 2016 <../_literature/session5/caron2016.pdf>`
 
 Session 6: Cooperation & Competition
@@ -65,11 +66,11 @@ Session 6: Cooperation & Competition
 
 Session 7: Mortality
 ####################
+| :download:`Hansen 1994 <../_literature/session7/hansen1994.pdf>`
 
-Session 8: Viral Lysis and the Spring Bloom
+Session 8: Viruses
 ###########################################
-| :download:`Doney 2002 <../_literature/session8/doney2002.pdf>`
-| :download:`Suttle 1990 <../_literature/session8/suttle1990.pdf>`
+| :download:`Siegel 2002 <../_literature/session8/doney2002.pdf>`
 
 Session 9: Individual-Based Modeling
 ####################################
