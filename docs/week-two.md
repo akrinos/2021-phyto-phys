@@ -8,7 +8,7 @@
   <div class="panel-body">
       An exploration of the light harvesting that characterizes the phytoplankton.<br>
       <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/masuda2021.pdf">Masuda 2021</a><br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/geider1987.pdf">Geider 1987</a>ßß
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/geider1987.pdf">Geider 1987</a>
   </div>
 </div>
 
