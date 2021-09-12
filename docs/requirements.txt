@@ -2,3 +2,4 @@ myst-parser
 sphinx_rtd_theme
 sphinx_bootstrap_theme
 mkdocs-bootswatch
+distribute
