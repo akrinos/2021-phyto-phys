@@ -37,7 +37,7 @@ Session 0: An Introduction to Phytoplankton Ecology
 Session 1: Light Harvesting
 ###########################
 | :download:`Geider 1987 <../_literature/session1/geider1987.pdf>`
-| :download:`Cullen 1990 <../_literature/session1/cullen1990.pdf>`
+| :download:`Masuda 2021 <../_literature/session1/masuda2021.pdf>`
 
 Session 2: Nutrient Acquisition
 ###############################
@@ -47,12 +47,12 @@ Session 2: Nutrient Acquisition
 Session 3: Modeling Primer
 ##########################
 | :download:`Riley 1946 <../_literature/session3/riley1946.pdf>`
-| :download:`Suttle 1990 <../_literature/session3/suttle1990.pdf>`
+| :download:`Seigel 2002 <../_literature/session3/seigel2002.pdf>`
 
 Session 4: Introducing the Large-Scale
 ######################################
-| :download:`Finkel 2009 <../_literature/session4/litchman2015.pdf>`
-| :download:`Finkel 2006 <../_literature/session4/finkel2006.pdf>`
+| :download:`Finkel 2009 <../_literature/session4/finkel2009.pdf>`
+| :download:`Litchman 2015 <../_literature/session4/litchman2015.pdf>`
 
 Session 5: Mixotrophy
 #####################
@@ -70,7 +70,7 @@ Session 7: Mortality
 
 Session 8: Viruses
 ###########################################
-| :download:`Menge 2009 <../_literature/session8/siegel2002.pdf>`
+| :download:`Menge 2009 <../_literature/session8/menge2009.pdf>`
 | :download:`Suttle 1990 <../_literature/session8/suttle1990.pdf>`
 
 Session 9: Individual-Based Modeling
