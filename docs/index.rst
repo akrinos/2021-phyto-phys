@@ -47,7 +47,7 @@ Session 2: Nutrient Acquisition
 Session 3: Modeling Primer
 ##########################
 | :download:`Riley 1946 <../_literature/session3/riley1946.pdf>`
-| :download:`Seigel 2002 <../_literature/session3/seigel2002.pdf>`
+| :download:`Siegel 2002 <../_literature/session3/siegel2002.pdf>`
 
 Session 4: Introducing the Large-Scale
 ######################################
