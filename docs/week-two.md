@@ -16,6 +16,24 @@ It seemed appropriate to begin a class on marine phytoplankton with what makes p
 
 Because this is such a complex topic, and so intricately tied to the physics of light, this first session has two papers that are more technical than the breakdown we anticipate in future sessions. We'll start class with a more structured introduction to light acquisition in the phytoplankton.
 
+### Background: photosynthesis and light
+
+The use of light energy is what makes phytoplankton _phytoplankton_. Phytoplankton use light in the range from 400-700 nm wavelength, all made possible by chlorophyll $\alpha$ bound to proteins. 
+
+**Photosystem II** is the first reaction center in photosyntehsis, in which the energy from light is leveraged to make oxygen via extracting electrons from the water required for photsynthesis to happen. The water from which electrons are stripped is used to promote electrons to a higher energy level, one of the core concepts behind photosynthesis. Photosystem II uses the photons at the wavelength 680 nm (but can adapt to use higher-energy photons). 
+
+**Photosystem I** receives electrons from photosystem II, and uses those photons of lower energy equivalence (closer to 700 nM at the lower-energy range of the total energy intenrval of photosynthesis).  The electron ends up promoted to a higher energy level in order to reduce NADP+. The reduced form of NADP+ is NADPH. Any light energy that _isn't_ involved in this water->NADPH pipeline is used to pump protons out of the stroma/cytosol (eukaryotes/prokaryotes, respectively) and into the lumen space inside the thylakoid.
+
+From a modeler's perspective, we mostly care about the arithmetic consequences of all of these exchanges. Namely, we have the equation:
+
+$$
+9 \textrm{ photons} + 2\textrm{H}_2 \textrm{O} + 2 \textrm{NADP}^+  + 12 \textrm{H}^+ \rightarrow 2 [\textrm{NADPH +H}^+] + ^*O_2 + 12^o \textrm{H}^+
+$$
+
+And we can in general write many other equations that describe and predict the process of photosynthesis. It's important to understand how phytoplankton are shaped by light availability because this has been a key aspect of their evolution. In the global oceans, we know that light is attenuated quite exponentially based on absorption by the water itself and by scattering from the particles that are present in the water (the latter of which is known as Raman scattering). Light limitation can occur dramatically and rapidly when particles are physically entrained deep in the water column, or where phytoplankton are found below at deep chlorophyll maxima and dense particle blooms are found above. 
+
+Maximum growth rate can depend heavily on photosynthetic potential and can also be enormously genotype-specific. What's more, photoacclimation - the generation of damaging products by photosystem II limiting the rate at which photosynthesis can occur, even when light is very readily available and the cell is growing happily - can make relationships between light and growth less straightforward.
+
 ### Paper One: Masuda 2021
 
 <object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/masuda2021.pdf" type="application/pdf" width="850px" height="700px">
