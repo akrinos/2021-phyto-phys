@@ -12,3 +12,4 @@
   </div>
 </div>
 
+Phytoplankton can produce their own food through photosynthesis. But this "food" is carbon, and they need other nutrients, namely nitrogen, phosphorus, silica, and calcium, in order to function. For many phytoplankton, they need these major nutrients in pretty large quantities. Other nutrients are needed in much smaller amounts, like iron. 
