@@ -50,7 +50,7 @@ This is because the year-long warm water conditions south of 40N mean that nutri
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Papers to Read Before!</h3>
+    <h3 class="panel-title">Siegel's Bottom Line</h3>
   </div>
   <div class="panel-body">
       According to Siegel, north of 40 degrees of latitude, Sverdrup's light-dominated critical depth prescribes the spring bloom, whereas the spring bloom starts in the south as soon as nutrients are entrained by mixing.
