@@ -14,6 +14,10 @@
 
 ### Mixotrophy as a life history strategy
 
+Mixotrophy is a key strategy among the plankton that could greatly increase primary productivity and trophic transfer. Under upwelling conditions when nutrients are abundant, the ability to use photosynthesis to supplement ordinary heterotrophic nutrient uptake could represent a major advantage.
+
+Mixotrophy itself is defined as the ability to take up alternative nutrients (i.e., that a phototroph uses some other means than normal dissolved uptake to acquire nutritions). The other characterization point for mixotrophs is that the definition of photoautotroph requires that, under normal conditions, they fix carbon using light. Phototrophy, by contrast, simply requires chemical energy (ATP/photoreductant NADPH) to be produced using a light source. All of the fixed carbon could potentially be coming from prey ingestion.
+
 <object data="https://2021-phyto-phys.readthedocs.io/en/latest/_static/ward2015.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://2021-phyto-phys.readthedocs.io/en/latest/_static/ward2015.pdf">
         <p>Alternatively, download the PDF to view it: <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session5/ward2015.pdf">Download PDF</a>.</p>
