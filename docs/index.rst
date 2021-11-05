@@ -75,7 +75,7 @@ Session 8: Viruses
 
 Session 9: Individual-Based Modeling
 ####################################
-| :download:`Inomura 2016 <../_literature/session9/inomura2016.pdf>`
+| :download:`Armin 2021 <../_literature/session9/armin2021.pdf>`
 | :download:`Klausmeier 2008 <../_literature/session9/klausmeier2008.pdf>`
 
 Session 10: Phytoplankton Evolution
