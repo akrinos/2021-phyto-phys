@@ -7,8 +7,8 @@
   </div>
   <div class="panel-body">
       Beyond mixotrophy, today we delve into competition and cooperation.<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/burson2018.pdf">Burson 2018</a>: using a natural phytoplankton community to test hypotheses about competition<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session6/seymour2017.pdf">Seymour 2017</a>: a review of phytoplankton-bacterial relationships
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/burson2018.pdf">Burson 2018</a>: using a natural phytoplankton community to test hypotheses about competition<br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/seymour2017.pdf">Seymour 2017</a>: a review of phytoplankton-bacterial relationships
   </div>
 </div>
 

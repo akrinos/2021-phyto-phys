@@ -8,7 +8,7 @@
   <div class="panel-body">
       Birth and death processes are complicated by the presence of viruses in ocean ecosystems.<br>
       <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/suttle1990.pdf">Suttle 1990</a>: viruses in the phytoplankton<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/menge2009.pdf">Menge</a>: coping with whether to prioritize evolutionary success against viruses
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/menge2009.pdf">Menge 2009</a>: coping with whether to prioritize evolutionary success against viruses
   </div>
 </div>
 

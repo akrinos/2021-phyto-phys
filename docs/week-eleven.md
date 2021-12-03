@@ -7,7 +7,7 @@
   </div>
   <div class="panel-body">
       We'll take a brief look into the adaptive capacity of phytoplankton this week.<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session10/martiny2020.pdf">Martiny 2020</a>: genomic adaptation and phosphate uptake<br>
-      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_literature/session5/caron2016.pdf">Caron 2016</a>: a review of marine mixotrophy
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/martiny2020.pdf">Martiny 2020</a>: genomic adaptation and phosphate uptake<br>
+      <a href="https://2021-phyto-phys.readthedocs.io/en/latest/_static/caron2016.pdf">Caron 2016</a>: a review of marine mixotrophy
   </div>
 </div>
